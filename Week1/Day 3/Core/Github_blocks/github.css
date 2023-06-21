@@ -1,0 +1,24 @@
+*{margin: 0;
+  padding: 0;
+
+}
+h1 {text-align: center;
+
+}
+.photo{
+  display: flex;
+  background-color: #4EC6E0;
+}
+
+
+
+
+
+
+img{
+  width: 20%;
+}
+.row{
+  display: flex;
+  background-color: #d8aabc;
+}
