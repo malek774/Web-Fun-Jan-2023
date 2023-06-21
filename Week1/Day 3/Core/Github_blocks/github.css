@@ -1,24 +1,40 @@
 *{margin: 0;
   padding: 0;
+  
 
 }
-h1 {text-align: center;
+.container {
+  background-color:#ecf5f7;
+  width: 950px;
+  margin: auto;
+  padding: 0;
+
+}
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 50px;
 
 }
 .photo{
   display: flex;
-  background-color: #4EC6E0;
+  justify-content: space-between;
+  margin: auto;
+  background-color: rgb(76,198,221);
 }
-
-
-
-
+.secund{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  background-color: #d8aabc;
+}
 
 
 img{
   width: 20%;
 }
-.row{
+.third{
   display: flex;
-  background-color: #d8aabc;
+  justify-content: space-around;
+  background-color:FCFCFF;
 }
