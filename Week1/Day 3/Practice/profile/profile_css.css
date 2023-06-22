@@ -1,0 +1,37 @@
+*{
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.nav{
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.nav-title{
+    color: white;
+    margin: 10px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+li{
+  margin:10px
+
+}
+a{
+    color: rgb(146, 142, 142);
+}
+.btn{
+   background-color: aqua;
+   color: white;
+   box-shadow: 4px 5px black;
+}
+.active{
+    color: white;
+}
